@@ -9,5 +9,4 @@ Points to Note:
 
 It was a nice learning experience on using pivot tables and pivot charts in excel and to come up with an interactive dashboard. This course has taught how to collect the data clean in power query and based on that build pivot tables and pivot charts and finally collecting all these tables and charts to come up with an interactive dashboard to help in making effective decision for the management.
 
-
-Image preview
+![IMDB Movie Dashboard Screenshot](https://github.com/user-attachments/assets/d942c331-c828-4db1-970f-7cd2d7c15050)
